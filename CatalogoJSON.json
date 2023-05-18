@@ -1,0 +1,58 @@
+{
+  "supermercados": [
+    {
+      "nombre": "Mercados Gómez",
+      "direccion": "Calle Juan Calvo, 12, 28027, Madrid",
+      "geolocalizacion": "3435-233",
+      "productos": [
+        {
+          "Nombre": "Tomates",
+          "PrecioNormal": "3.00€",
+          "TieneOferta": false,
+          "unidadMedida": "kg",
+          "PrecioOferta": "null",
+          "validezOferta": "null",
+          "Unidades": "1000",
+          "Comprado": false
+        },
+        {
+          "Nombre": "Leche",
+          "PrecioNormal": "1.50€",
+          "TieneOferta": true,
+          "unidadMedida": "unidad",
+          "PrecioOferta": "1.25",
+          "validezOferta": "20/05/2023",
+          "Unidades": "500",
+          "Comprado": true
+        }
+      ]
+    },
+    {
+      "nombre": "La Despensa",
+      "direccion": "Calle Ermita, 54, 28011, Madrid",
+      "geolocalizacion": "3435-324",
+      "productos": [
+        {
+          "Nombre": "Huevos",
+          "PrecioNormal": "2.00€",
+          "TieneOferta": false,
+          "unidadMedida": "Docena",
+          "PrecioOferta": "null",
+          "validezOferta": "null",
+          "Unidades": "1300",
+          "Comprado": false
+        },
+        {
+          "Nombre": "Leche",
+          "PrecioNormal": "1.50€",
+          "TieneOferta": true,
+          "unidadMedida": "unidad",
+          "PrecioOferta": "1.25",
+          "validezOferta": "20/05/2023",
+          "Unidades": "500",
+          "Comprado": true
+        }
+      ]
+    }
+  ]
+}

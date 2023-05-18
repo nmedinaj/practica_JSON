@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalogo>
+	<supermercados>
+		<nombre>Mercados Gómez</nombre>
+		<direccion>Calle Juan Calvo, 12, 28027, Madrid</direccion>
+		<geolocalizacion>3435-233</geolocalizacion>
+		<productos>
+			<Nombre>Tomates</Nombre>
+			<PrecioNormal>3.00€</PrecioNormal>
+			<TieneOferta>false</TieneOferta>
+			<unidadMedida>kg</unidadMedida>
+			<PrecioOferta>null</PrecioOferta>
+			<validezOferta>null</validezOferta>
+			<Unidades>1000</Unidades>
+			<Comprado>false</Comprado>
+		</productos>
+		<productos>
+			<Nombre>Leche</Nombre>
+			<PrecioNormal>1.50€</PrecioNormal>
+			<TieneOferta>true</TieneOferta>
+			<unidadMedida>unidad</unidadMedida>
+			<PrecioOferta>1.25</PrecioOferta>
+			<validezOferta>20/05/2023</validezOferta>
+			<Unidades>500</Unidades>
+			<Comprado>true</Comprado>
+		</productos>
+	</supermercados>
+	<supermercados>
+		<nombre>La Despensa</nombre>
+		<direccion>Calle Ermita, 54, 28011, Madrid</direccion>
+		<geolocalizacion>3435-324</geolocalizacion>
+		<productos>
+			<Nombre>Huevos</Nombre>
+			<PrecioNormal>2.00€</PrecioNormal>
+			<TieneOferta>false</TieneOferta>
+			<unidadMedida>Docena</unidadMedida>
+			<PrecioOferta>null</PrecioOferta>
+			<validezOferta>null</validezOferta>
+			<Unidades>1300</Unidades>
+			<Comprado>false</Comprado>
+		</productos>
+		<productos>
+			<Nombre>Leche</Nombre>
+			<PrecioNormal>1.50€</PrecioNormal>
+			<TieneOferta>true</TieneOferta>
+			<unidadMedida>unidad</unidadMedida>
+			<PrecioOferta>1.25</PrecioOferta>
+			<validezOferta>20/05/2023</validezOferta>
+			<Unidades>500</Unidades>
+			<Comprado>true</Comprado>
+		</productos>
+	</supermercados>
+</catalogo>
